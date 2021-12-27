@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Praktik Alert</string>
+    <string name="tampilkan_toast">Tampilkan Toast</string>
+    <string name="tampilkan_snackbar">Tampilkan Snackbar</string>
+    <string name="tampilkan_dialog">Tampilkan Dialog</string>
+</resources>
